@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados e modelos gerados
+data/
+datasets/
+models/
+*.pkl
+*.joblib
+*.h5
+*.keras
+
+# Logs e resultados
+logs/
+outputs/
+results/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ambiente
+.env
