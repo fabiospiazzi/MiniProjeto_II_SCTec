@@ -59,3 +59,4 @@ Também é possível executar o arquivo diretamente no Google Colab. Execute as 
 - O dataset MNIST é baixado durante a execução.
 - O treinamento de XGBoost e da rede neural pode exigir mais tempo e memória.
 - Para reproduzir os resultados, mantenha as mesmas divisões dos dados e os parâmetros definidos no notebook.
+- Link de apresentação: https://drive.google.com/file/d/1B3fh-0RwrR1be7QGirclD-M_BT9MkxiD/view?usp=sharing
